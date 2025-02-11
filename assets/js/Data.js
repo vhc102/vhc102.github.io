@@ -12,37 +12,37 @@ export const profile = [
   {
     title: "Software Developer",
     summary:
-      "Dynamic and result-oriented Lead Developer with 7+ years of experience in software development, team leadership, and project delivery. <br> <br> Proficient in Python, Django, and cutting-edge AI technologies, including LLMs, Prompt Engineering, RAG, and vector databases. <br> <br> Proven expertise in cloud platforms, scalable architectures, and AI-driven solutions. <br> <br>Passionate about delivering impactful software through innovation, efficiency, and open-source contributions.",
+      "Dynamic and result-oriented Lead Developer with 7+ years of experience in software development, team leadership, and project delivery. <br> <br> Proficient in Python, Django, React.js, Next.js and cutting-edge AI technologies, including LLMs, Prompt Engineering, RAG, and vector databases. <br> <br> Proven expertise in cloud platforms, scalable architectures, and AI-driven solutions. <br> <br>Passionate about delivering impactful software through innovation, efficiency, and open-source contributions.",
   },
 ];
 
 export const services = [
   {
     image: "assets/images/Dev.svg",
-    title: "Backend Developement",
+    title: "Backend/Frontend Developement",
     description:
-      "Streamline customer relationships, sales pipelines, and procurement processes with tailored Odoo solutions.",
+      "Develop scalable and high-performance web applications with seamless user experiences.",
   },
 
   {
     image: "assets/images/Cloud.svg",
     title: "Cloud Computing",
     description:
-      "Simplify financial management with automated accounting, invoicing, and reporting features.",
+      "Optimize infrastructure with cloud-based solutions for enhanced performance, security, and scalability.",
   },
 
   {
     image: "assets/images/Database.svg",
     title: "Database Management",
     description:
-      "Build dynamic, user-friendly websites with Odoo’s integrated design and e-commerce tools.",
+      "Design, optimize, and maintain databases to ensure efficient data handling and storage.",
   },
 
   {
     image: "assets/images/Ai.svg",
     title: "AI Development",
     description:
-      "Seamlessly integrate, migrate, and customize Odoo to fit your unique business needs.",
+      "Implement AI-driven solutions to automate processes, enhance decision-making, and improve user interactions.",
   },
 ];
 
@@ -51,12 +51,6 @@ export const education = [
     degree: "MCA",
     institute: "Gujarat Vidyapith, Ahmedabad",
     year: "2016 - 2018",
-  },
-
-  {
-    degree: "BCA",
-    institute: "HNGU",
-    year: "2012 - 2015",
   },
 ];
 
@@ -89,19 +83,25 @@ export const experience = [
 export const skills = [
   { name: "Python", progress: "75" },
 
-  { name: "JavaScript", progress: "60" },
+  { name: "JavaScript", progress: "80" },
 
   { name: "Django", progress: "90" },
+  
+  { name: "React.js", progress: "90" },
 
   { name: "Flask", progress: "90" },
+  
+  { name: "Next.js", progress: "90" },
 
   { name: "FastAPI", progress: "80" },
+  
+  { name: "Node.js", progress: "80" },
 
   { name: "RestAPI", progress: "80" },
 
   { name: "DRF", progress: "70" },
 
-  { name: "React.Js, Next.Js, Vue.Js", progress: "85" },
+  { name: "Vue.Js", progress: "60" },
 
   { name: "Prompt Engineering", progress: "80" },
 
