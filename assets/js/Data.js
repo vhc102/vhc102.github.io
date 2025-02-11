@@ -4,8 +4,8 @@ export const UserData = [
   { phone: "+91 9558721751" },
   { email: "vh@pysquad.com" },
   { location: "A 605, Shilp Aaron,Sindhu Bhavan Road, Ahmedabad-380054" },
-  { designation: "Python Expert, <br>Lead Developer" },
-  { website: "https://pysquad.com" },
+  { designation: "Lead Fullstack Developer" },
+  { website: "https://www.pysquad.com" },
 ];
 
 export const profile = [
