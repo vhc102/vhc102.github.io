@@ -12,7 +12,7 @@ export const profile = [
   {
     title: "Software Developer",
     summary:
-      "Dynamic and result-oriented Lead Developer with 8+ years of experience in software development, team leadership, and project delivery. <br> Proficient in Python, Django, and cutting-edge AI technologies, including LLMs, Prompt Engineering, RAG, and vector databases. <br> <br> Proven expertise in cloud platforms, scalable architectures, and AI-driven solutions. <br> <br>Determining operational feasibility by evaluating, analyzing requirements and solutions. <br><br>Proficient in React.js, Next.js and TypeScript with a solid understanding of JavaScript/ES6+, HTML/CSS, and modern UI/UX principles.<br>Familiar with tools like Webpack, Vite, and CI/CD pipelines."
+      "Dynamic and result-oriented Lead Developer with 8+ years of experience in software development, team leadership, and project delivery. <br><br> Proficient in Python, Django, and cutting-edge AI technologies, including LLMs, Prompt Engineering, RAG, and vector databases. <br> <br> Proven expertise in cloud platforms, scalable architectures, and AI-driven solutions. <br> <br>Determining operational feasibility by evaluating, analyzing requirements and solutions. <br><br>Proficient in React.js, Next.js and TypeScript with a solid understanding of JavaScript/ES6+, HTML/CSS, and modern UI/UX principles.<br><br>Familiar with tools like Webpack, Vite, and CI/CD pipelines."
   },
 ];
 
